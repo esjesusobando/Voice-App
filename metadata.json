@@ -1,0 +1,7 @@
+{
+  "name": "Voice App",
+  "description": "A minimalist, voice-powered journaling app that transcribes your thoughts in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
